@@ -1,0 +1,61 @@
+#div1{
+    background-color: lightgray;
+    border: solid blue;
+    display: flex;
+    justify-content: space-;
+    align-items: center;
+    
+}
+
+#olx{
+    margin-left:80px;
+    font-size: 40px;
+}
+#search{ background-color: white;
+margin-left: 50px;
+    
+    width: 500px;
+    height: 50px;
+}
+.form-control{
+    margin-bottom: 10px;
+    border: solid ;
+    height: 50px;
+}
+#search1{
+    width: 700px;
+    margin-top: 15px;
+margin-left: 20px;
+}
+
+.input-group-append{
+    background-color: darkslategrey;
+    
+
+}
+
+.button{
+    margin-left: 60px;
+}
+
+.sell{
+    margin-left: 40px;
+}
+.option{
+    margin-right: px;
+    color: black;
+}
+#categories{
+    
+    margin-left: 5  0px;
+}
+
+
+#menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
