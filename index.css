@@ -9,12 +9,12 @@
 
 #olx{
     margin-left:80px;
-    font-size: 40px;
+    font-size: 50px;
 }
 #search{ background-color: white;
 margin-left: 50px;
     
-    width: 500px;
+    width: 350px;
     height: 50px;
 }
 .form-control{
@@ -23,7 +23,7 @@ margin-left: 50px;
     height: 50px;
 }
 #search1{
-    width: 700px;
+    width: 750px;
     margin-top: 15px;
 margin-left: 20px;
 }
@@ -41,21 +41,110 @@ margin-left: 20px;
 .sell{
     margin-left: 40px;
 }
-.option{
-    margin-right: px;
-    color: black;
-}
-#categories{
-    
-    margin-left: 5  0px;
-}
 
 
 #menu{
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
+} 
+
+
+#categories{
+    
+    margin-left: 50px;
+}
+
+
+
+.option{
+    
+    color: black;
+}
+}
+.youtube{
+    border: solid red;
+
+}
+
+.footer{
+    display: flex;
+background-color: aqua;
+    height:250px ;
+    border: solid aqua;
+}
+
+.div0{
+    border: solid aqua; 
+    width:150px;
+
+
+}
+.div1{
+    text-align: center;
+    border: solid aqua;
+    width:350px;
+}
+.div2{
+    text-align: center;
+    border: solid aqua;
+    width: 300px;
+}
+
+.div3{
+    text-align: center;
+    border: solid aqua;
+    width: 300px;
+}
+.div4{
+    width: 200px;
+    text-align: center;
+    border: solid aqua;
+}
+
+.div5{
+    width: 200px;
+    text-align: center;
+    border: solid aqua;
+}
+
+.face{
+    
+    margin-right: 15px;
+}
+
+.none{
+    border: solid palevioletred;
+    height: 20px;
+    width: 200px;   
+}
+
+.countries{
+    border: solid palevioletred;
+    
+}
+
+.empty{
+    border:solid palevioletred;
+    width: 550px;
+
+}
+
+.zero{
+    border: solid palevioletred;
+    width: 200px;
+}
+
+.parent{
+    background-color: palevioletred;
+     height: 100px;
+    display: flex;
+    align-items: center;
     justify-content: space-around;
 }
+
+
+
 
 
 
