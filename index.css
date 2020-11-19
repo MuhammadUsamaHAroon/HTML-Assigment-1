@@ -142,7 +142,8 @@ background-color: aqua;
 }
 
 .img{
-    height: 550px;
+    width: 100%;
+    height: 650px;
     background-image: url(AUsd2g.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -150,8 +151,8 @@ background-color: aqua;
     
 }
 .picture{
-   
-    height: 550px;
+   width: 100%;
+    height: 500px;
     background-image: url(K2_002.jpg);
     background-repeat: no-repeat;
     background-size: cover;
