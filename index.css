@@ -1,6 +1,6 @@
 #div1{
     background-color: lightgray;
-    border: solid blue;
+    border: solid lightgray;
     display: flex;
     justify-content: space-;
     align-items: center;
@@ -61,9 +61,9 @@ margin-left: 20px;
     
     color: black;
 }
-}
+
 .youtube{
-    border: solid red;
+    
 
 }
 
@@ -142,6 +142,89 @@ background-color: aqua;
     align-items: center;
     justify-content: space-around;
 }
+
+.img{
+    height: 550px;
+    background-image: url(AUsd2g.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.iamge{
+    height: 550px;
+    background-image: url(K2_002.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* main dive */
+.main{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: lightgray;
+    border: solid lightgray;
+    
+}
+.first{
+    text-align:left ;
+    width: 350px;
+    height: 400px;
+    border:solid white;
+    background-color: white;
+}
+
+.firstchild{
+    
+    margin-top: 50px;
+    margin-left: 35px;
+    border: solid white;
+    height: 250px;
+    width: 270px;
+}
+
+.secondmain{
+    border: solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: white;
+}
+.second{
+    border: solid gray;
+    text-align:left ;
+    width: 350px;
+    height: 400px;
+    border:solid white;
+    background-color: gray;
+}
+
+.secondchild{
+    border: solid gray;
+    margin-top: 50px;
+    margin-left: 35px;
+    border: solid white;
+    height: 250px;
+    width: 270px;
+}
+
+.first:hover{
+ 
+    color: black;
+    border: 15px solid lightgray;
+    background-color:silver;
+    box-shadow:10px 4px 4px 4px ;
+}
+
+.second:hover{
+    color: black;
+    background-color: white;
+    border: 15px solid white;
+    box-shadow:10px 4px 4px 4px  ;
+}
+
 
 
 
