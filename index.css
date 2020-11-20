@@ -67,43 +67,43 @@ margin-left: 20px;
 
 .footer{
     display: flex;
-background-color: aqua;
+background-color: lightgray;
     height:250px ;
-    border: solid aqua;
+    border: solid lightgray;
 }
 
 .div0{
-    border: solid aqua; 
+    border: solid lightgray; 
     width:150px;
 
 
 }
 .div1{
     text-align: center;
-    border: solid aqua;
+    border: solid lightgray;
     width:350px;
 }
 .div2{
     text-align: center;
-    border: solid aqua;
+    border: solid lightgray;
     width: 300px;
 }
 
 .div3{
     text-align: center;
-    border: solid aqua;
+    border: solid lightgray;
     width: 300px;
 }
 .div4{
     width: 200px;
     text-align: center;
-    border: solid aqua;
+    border: solid lightgray;
 }
 
 .div5{
     width: 200px;
     text-align: center;
-    border: solid aqua;
+    border: solid lightgray;
 }
 
 .face{
@@ -112,29 +112,32 @@ background-color: aqua;
 }
 
 .none{
-    border: solid palevioletred;
+    
+    border: solid cornflowerblue;
     height: 20px;
     width: 200px;   
 }
 
 .countries{
-    border: solid palevioletred;
+    color: white;
+    border: solid cornflowerblue;
     
 }
 
 .empty{
-    border:solid palevioletred;
+    border:solid cornflowerblue;
     width: 550px;
 
 }
 
 .zero{
-    border: solid palevioletred;
+    border: solid cornflowerblue;
     width: 200px;
 }
 
 .parent{
-    background-color: palevioletred;
+    color: white;
+    background-color: cornflowerblue;
      height: 100px;
     display: flex;
     align-items: center;
@@ -223,6 +226,17 @@ background-color: aqua;
     background-color: white;
     border: 15px solid white;
     box-shadow:10px 4px 4px 4px  ;
+}
+
+.h1:hover{
+    background-color: ;
+    color:blue;
+    box-shadow:10px 4px 4px 4px
+}
+
+.h2:hover{
+    color:green;
+    box-shadow:10px 4px 4px 4px
 }
 
 
